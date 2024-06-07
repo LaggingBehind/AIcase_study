@@ -29,11 +29,7 @@
 * The past 5-10 years have been monumental for the AI industry. With the advancements of things like, Deep Learning completely revolutionized the AI industry, achieving human level and even surpassing human level performance in some areas. And Democratization of AI with Cloud Computing. This has laid the path for AI to be readily available for a wide range of users, including startups, researchers and individual developers for acceleration and innovation fueling growth for the AI ecosystem.
 
 * The major companies in this field include.
-Google
-Microsoft
-Amazon
-Meta
-Apple
+Google, Microsoft, Amazon, Meta and Apple.
 
 ## Results
 
@@ -54,10 +50,8 @@ Deepmind is excelling in this field demonstrating a global impact. However, Deep
 
 ## Recommendations
 
-* I would like them to offer Nero enhancement that could boost the IQ and cognitive ability of the brain.
+* I think it would be beneficial for DeepMind to use AlphaFold to address misfolding protein diseases.
 
-* I think offering this would propel humanity and everything associated to a higher plane of existence.
+* Offering this would help cure diseases like Alzheimer's and Parkinson's.
 
-* This product would utilize mankind's ability for higher thinking. Eventually eliminating barbaric tendencies like murder and crime in general. Providing solutions to mankind’s biggest problems that are the motivation of war and desperation. 
-
-* This would provide an appropriate solution by sharing knowledge and recourses, having ethics and wisdom to provide positive outcomes for the benefit of everyone.
+* This would provide a significant contribution to our understanding of proteins and the role they play in health and disease. 
