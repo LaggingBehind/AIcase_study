@@ -55,3 +55,23 @@ Deepmind is excelling in this field demonstrating a global impact. However, Deep
 * Offering this would help cure diseases like Alzheimer's and Parkinson's.
 
 * This would provide a significant contribution to our understanding of proteins and the role they play in health and disease. 
+
+## Sources
+
+https://www.grandviewresearch.com/industry-analysis/biotechnology-market#:~:text=The%20global%20biotechnology%20market%20size,USD%201.55%20trillion%20in%202023.
+
+https://laskerfoundation.org/winners/alphafold-a-technology-for-predicting-protein-structures/#:~:text=With%20brilliant%20ideas%2C%20intensive%20efforts,level%20of%20accuracy%20and%20speed.
+
+https://www.cnbc.com/2020/12/17/deepmind-lost-649-million-and-alphabet-waived-a-1point5-billion-debt-.html
+
+https://cbmm.mit.edu/news-events/news/deepmind-founder-demis-hassabis-my-research-soul-was-disappointed-how-inelegant
+
+https://en.wikipedia.org/wiki/Google_DeepMind
+
+https://deepmind.google/about/
+
+https://alphafold.ebi.ac.uk/about
+
+https://www.youtube.com/watch?v=7q8Uw3rmXyE
+
+https://www.youtube.com/watch?v=Mz7Qp73lj9o
