@@ -15,8 +15,14 @@
 ## Business Activities
 
 * Deepmind's Alphafold is trying to solve the protein folding problem. Figuring out a proteins structure has been a very slow and expensive process, which has required years of work and specialized equipment. Alphafold is using algorithms to computationally analyze amino acid sequences to predict the folded structure.
-##### Results
+
+##### Results 
+> Alphafold has achieved near atomic level predictions in a fraction of the time, compaired to traditional methods.
+
 ##### Impact
+> This has opened the doors for new medicines and overall better understanding of how proteins work in living organisms.
+
+
 * The company's customer base is composed of Biotech, Pharmaceutical Industry, Academic Researchers and Structural Biologists. The market size of this set of customers is not exact but the global biotechnology market is estimated at $1.76 trillion. 
 
 * Competitors currently cannot compete with DeepMinds access to immense computational power and cutting-edge deep learning expertise. This makes them the leader spearheading the protein structure prediction. 
