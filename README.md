@@ -15,7 +15,8 @@
 ## Business Activities
 
 * Deepmind's Alphafold is trying to solve the protein folding problem. Figuring out a proteins structure has been a very slow and expensive process, which has required years of work and specialized equipment. Alphafold is using algorithms to computationally analyze amino acid sequences to predict the folded structure.
-
+##### Results
+##### Impact
 * The company's customer base is composed of Biotech, Pharmaceutical Industry, Academic Researchers and Structural Biologists. The market size of this set of customers is not exact but the global biotechnology market is estimated at $1.76 trillion. 
 
 * Competitors currently cannot compete with DeepMinds access to immense computational power and cutting-edge deep learning expertise. This makes them the leader spearheading the protein structure prediction. 
@@ -26,7 +27,9 @@
 
 * DeepMind is a Artificial Intelligence field based company, specifically focusing on the subfield known as Machine learning to solve complex problems like protein structure with Alphafold.
 
-* The past 5-10 years have been monumental for the AI industry. With the advancements of things like, Deep Learning completely revolutionized the AI industry, achieving human level and even surpassing human level performance in some areas. And Democratization of AI with Cloud Computing. This has laid the path for AI to be readily available for a wide range of users, including startups, researchers and individual developers for acceleration and innovation fueling growth for the AI ecosystem.
+* The past decade, algorithms have become more complex. This has developed functionality without human input, which at its core is **Artificial intelligence**. 
+* 1 Machine learning has created computers that learn tasks and training models from large data bases and is a key component in artificial intelligence systems.
+* 2 Democratization of AI with Cloud Computing. This has laid the path for AI to be readily available for a wide range of users, including startups, researchers and individual developers for acceleration and innovation fueling growth for the AI ecosystem.
 
 * The major companies in this field include.
 Google, Microsoft, Amazon, Meta and Apple.
@@ -75,3 +78,5 @@ https://alphafold.ebi.ac.uk/about
 https://www.youtube.com/watch?v=7q8Uw3rmXyE
 
 https://www.youtube.com/watch?v=Mz7Qp73lj9o
+
+https://www.eweek.com/artificial-intelligence/generative-ai-vs-machine-learning/
